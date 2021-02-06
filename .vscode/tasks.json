@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "cbuild",
+			"path": "static3/",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "Create React App + Craco Build",
+			"detail": "Dev Build"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "hxtelemetry",
+  "version": "1.0.0",
+  "description": "You are here for no reason",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-2.0-only",
+  "proxy": "http://localhost:3000",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.4.2"
+  },
+  "devDependencies": {}
+}
